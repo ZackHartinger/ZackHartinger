@@ -1,4 +1,6 @@
-<h1>Zack Hartinger</h1>
+<h1>Hey, I'm Zack!</h1>
+
+<p>I'm a junior fullstack developer that is passionate about learning new technologies and using them to solve problems and make games. Learning how to program greatly enriches my life as I hone my problem solving skills to think about life's problems differently. I am looking forward to bringing my skills and insights to the worforce and beginning my professional journey!</p>
 
 <!-- Badges 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -27,7 +29,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <h2>Skills</h2>
+ <h3>Skills:</h3>
  
  [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css,sass,bootstrap,vite,vue,react,mysql,azure)](https://skillicons.dev)
+
+ <h2>What I'm currently working on</h2>
+
+ <h3>Punch Time Management</h3>
+ <p>Punch is a fullstack application that simplifies the process of submitting time cards and handling HR tasks for small companies. Time cards and their details are stored in a SQL database using a RESTful API written in C#, admin users of the app are able to apply filters to the data set and create simple reports for tracking employee hours, work tasks and time off requests. Punch's front end is a SPA(Single Page Application) built using React for a snappy user experience.</p>
+
 

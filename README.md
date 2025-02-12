@@ -1,6 +1,6 @@
 <h1>Hey, I'm Zack!</h1>
 
-<p>I'm a junior fullstack developer that is passionate about learning new technologies and using them to solve problems and make games. Learning how to program greatly enriches my life as I hone my problem solving skills to think about life's problems differently. I am looking forward to bringing my skills and insights to the worforce and beginning my professional journey!</p>
+<p>I'm a junior fullstack developer that is passionate about learning new technologies and using them to develop creative solutions and make games. Learning how to program greatly enriches my life as I hone my problem solving skills to think about life's puzzles differently. I am looking forward to bringing my skills and insights to the worforce and beginning my professional journey!</p>
 
 <!-- Badges 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
